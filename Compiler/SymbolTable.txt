@@ -1,0 +1,3 @@
+Variable Name: x, Is Constant: false
+Variable Name: y, Is Constant: false
+Variable Name: c, Is Constant: false
